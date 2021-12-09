@@ -1,0 +1,202 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "dash",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\dell\\Anaconda3\\pkgs\\dash-table-4.4.1-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/dash_table-4.4.1.dist-info/INSTALLER",
+    "Lib/site-packages/dash_table-4.4.1.dist-info/LICENSE",
+    "Lib/site-packages/dash_table-4.4.1.dist-info/METADATA",
+    "Lib/site-packages/dash_table-4.4.1.dist-info/RECORD",
+    "Lib/site-packages/dash_table-4.4.1.dist-info/REQUESTED",
+    "Lib/site-packages/dash_table-4.4.1.dist-info/WHEEL",
+    "Lib/site-packages/dash_table-4.4.1.dist-info/direct_url.json",
+    "Lib/site-packages/dash_table-4.4.1.dist-info/top_level.txt",
+    "Lib/site-packages/dash_table/DataTable.py",
+    "Lib/site-packages/dash_table/Format.py",
+    "Lib/site-packages/dash_table/FormatTemplate.py",
+    "Lib/site-packages/dash_table/__init__.py",
+    "Lib/site-packages/dash_table/_imports_.py",
+    "Lib/site-packages/dash_table/bundle.js",
+    "Lib/site-packages/dash_table/bundle.js.map",
+    "Lib/site-packages/dash_table/metadata.json",
+    "Lib/site-packages/dash_table/package-info.json",
+    ".nonadmin",
+    "Lib/site-packages/dash_table/__pycache__/DataTable.cpython-37.pyc",
+    "Lib/site-packages/dash_table/__pycache__/Format.cpython-37.pyc",
+    "Lib/site-packages/dash_table/__pycache__/FormatTemplate.cpython-37.pyc",
+    "Lib/site-packages/dash_table/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/dash_table/__pycache__/_imports_.cpython-37.pyc"
+  ],
+  "fn": "dash-table-4.4.1-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "9653876196c1bcaf483154d7e04f18e8",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\dell\\Anaconda3\\pkgs\\dash-table-4.4.1-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "9b9945a33a6a5e225fd63ecaa1074964",
+  "name": "dash-table",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\dell\\Anaconda3\\pkgs\\dash-table-4.4.1-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/dash_table-4.4.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/dash_table-4.4.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "f6d1140c080bc8b87cfe70f63a1626221d300130dfef509985b5ffb53c2f5512",
+        "sha256_in_prefix": "f6d1140c080bc8b87cfe70f63a1626221d300130dfef509985b5ffb53c2f5512",
+        "size_in_bytes": 1086
+      },
+      {
+        "_path": "site-packages/dash_table-4.4.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "c2ce7eb5c0220c52eb3f2a21300470ffd514c483ea2e371d95c991d371b3d9fc",
+        "sha256_in_prefix": "c2ce7eb5c0220c52eb3f2a21300470ffd514c483ea2e371d95c991d371b3d9fc",
+        "size_in_bytes": 194
+      },
+      {
+        "_path": "site-packages/dash_table-4.4.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "cc867d5db98ad811a06a691a08e9feb30b89c34dcd5f3c6fdb2481ac0c21426e",
+        "sha256_in_prefix": "cc867d5db98ad811a06a691a08e9feb30b89c34dcd5f3c6fdb2481ac0c21426e",
+        "size_in_bytes": 1680
+      },
+      {
+        "_path": "site-packages/dash_table-4.4.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/dash_table-4.4.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+        "sha256_in_prefix": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/dash_table-4.4.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "30fb23f6a9c39d55b82c83b6e264b121448845f3da3d19b5bc4a5fe23cb55482",
+        "sha256_in_prefix": "30fb23f6a9c39d55b82c83b6e264b121448845f3da3d19b5bc4a5fe23cb55482",
+        "size_in_bytes": 96
+      },
+      {
+        "_path": "site-packages/dash_table-4.4.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "862b0b09e8c61629d997289d5b89c324f2f301831d58315263d2ef6244eedd21",
+        "sha256_in_prefix": "862b0b09e8c61629d997289d5b89c324f2f301831d58315263d2ef6244eedd21",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "site-packages/dash_table/DataTable.py",
+        "path_type": "hardlink",
+        "sha256": "69430b02d59d49d3dd5b0749877b374dde6f13873c5c410a1e298b32220773d3",
+        "sha256_in_prefix": "69430b02d59d49d3dd5b0749877b374dde6f13873c5c410a1e298b32220773d3",
+        "size_in_bytes": 50492
+      },
+      {
+        "_path": "site-packages/dash_table/Format.py",
+        "path_type": "hardlink",
+        "sha256": "9528efe5a74e576822fa50755bb1989c3ac9d957c4456bee13265a4dfadc0258",
+        "sha256_in_prefix": "9528efe5a74e576822fa50755bb1989c3ac9d957c4456bee13265a4dfadc0258",
+        "size_in_bytes": 7566
+      },
+      {
+        "_path": "site-packages/dash_table/FormatTemplate.py",
+        "path_type": "hardlink",
+        "sha256": "0d7614c2eeab9bfe33b2a3f836e68eeac4050aaaa00644e20e0d4b5b4b75bac3",
+        "sha256_in_prefix": "0d7614c2eeab9bfe33b2a3f836e68eeac4050aaaa00644e20e0d4b5b4b75bac3",
+        "size_in_bytes": 542
+      },
+      {
+        "_path": "site-packages/dash_table/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4d66c90858805669c49fa5f1c150c106db54bf9a317269e0c2e1257701d9d62e",
+        "sha256_in_prefix": "4d66c90858805669c49fa5f1c150c106db54bf9a317269e0c2e1257701d9d62e",
+        "size_in_bytes": 1450
+      },
+      {
+        "_path": "site-packages/dash_table/_imports_.py",
+        "path_type": "hardlink",
+        "sha256": "58eba8ea76f2905c366a6d8d89110305ea916703654c944a75fc4c5f54083d4a",
+        "sha256_in_prefix": "58eba8ea76f2905c366a6d8d89110305ea916703654c944a75fc4c5f54083d4a",
+        "size_in_bytes": 63
+      },
+      {
+        "_path": "site-packages/dash_table/bundle.js",
+        "path_type": "hardlink",
+        "sha256": "147794c6a68bc0b9d193491cd206171cd332fb4d8ef867325985d9ea18e117fe",
+        "sha256_in_prefix": "147794c6a68bc0b9d193491cd206171cd332fb4d8ef867325985d9ea18e117fe",
+        "size_in_bytes": 1355272
+      },
+      {
+        "_path": "site-packages/dash_table/bundle.js.map",
+        "path_type": "hardlink",
+        "sha256": "daaa561d7248dbca347f626e5aa0b2c05762310f9afa9e0f794b7cc10b73fb3e",
+        "sha256_in_prefix": "daaa561d7248dbca347f626e5aa0b2c05762310f9afa9e0f794b7cc10b73fb3e",
+        "size_in_bytes": 4781044
+      },
+      {
+        "_path": "site-packages/dash_table/metadata.json",
+        "path_type": "hardlink",
+        "sha256": "e292c62b7b9f742062726f9a1e9f6c3db142bf7df4d90bd9b6dd24654f97b980",
+        "sha256_in_prefix": "e292c62b7b9f742062726f9a1e9f6c3db142bf7df4d90bd9b6dd24654f97b980",
+        "size_in_bytes": 85645
+      },
+      {
+        "_path": "site-packages/dash_table/package-info.json",
+        "path_type": "hardlink",
+        "sha256": "7e6a583fc20908adaead8a218cf9ab8c7d4b9901e4ccc07370995f118041bd6b",
+        "sha256_in_prefix": "7e6a583fc20908adaead8a218cf9ab8c7d4b9901e4ccc07370995f118041bd6b",
+        "size_in_bytes": 5592
+      },
+      {
+        "_path": "Lib/site-packages/dash_table/__pycache__/DataTable.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_table/__pycache__/Format.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_table/__pycache__/FormatTemplate.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_table/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_table/__pycache__/_imports_.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ca24b22c99c04e6dc5ef999349997f1d675f038a3070ca9dac5afbf01978a172",
+  "size": 1363521,
+  "subdir": "noarch",
+  "timestamp": 1630660297007,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/dash-table-4.4.1-pyhd3eb1b0_0.conda",
+  "version": "4.4.1"
+}

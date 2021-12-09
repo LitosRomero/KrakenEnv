@@ -1,0 +1,52 @@
+==> 2021-12-07 15:52:50 <==
+# cmd: C:\Users\dell\Anaconda3\Scripts\conda-script.py create --yes --json --prefix C:\Users\dell\Anaconda3\envs\KrakenEnv python=3.7
+# conda version: 4.10.3
++defaults/noarch::wheel-0.37.0-pyhd3eb1b0_1
++defaults/win-64::ca-certificates-2021.10.26-haa95532_2
++defaults/win-64::certifi-2021.10.8-py37haa95532_0
++defaults/win-64::openssl-1.1.1l-h2bbff1b_0
++defaults/win-64::pip-21.2.4-py37haa95532_0
++defaults/win-64::python-3.7.11-h6244533_0
++defaults/win-64::setuptools-58.0.4-py37haa95532_0
++defaults/win-64::sqlite-3.36.0-h2bbff1b_0
++defaults/win-64::vc-14.2-h21ff451_1
++defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::wincertstore-0.2-py37haa95532_2
+# update specs: ['python=3.7']
+==> 2021-12-07 16:59:25 <==
+# cmd: C:\Users\dell\Anaconda3\Scripts\conda-script.py install --yes --json --force-pscheck --prefix C:\Users\dell\Anaconda3\envs\KrakenEnv dash numpy pandas plotly
+# conda version: 4.10.3
++defaults/noarch::click-8.0.3-pyhd3eb1b0_0
++defaults/noarch::dash-1.19.0-pyhd3eb1b0_0
++defaults/noarch::dash-core-components-1.3.1-py_0
++defaults/noarch::dash-html-components-1.0.1-py_0
++defaults/noarch::dash-renderer-1.1.2-py_0
++defaults/noarch::dash-table-4.4.1-pyhd3eb1b0_0
++defaults/noarch::dataclasses-0.8-pyh6d0b6a4_7
++defaults/noarch::flask-2.0.2-pyhd3eb1b0_0
++defaults/noarch::flask-compress-1.10.1-pyhd3eb1b0_0
++defaults/noarch::itsdangerous-2.0.1-pyhd3eb1b0_0
++defaults/noarch::jinja2-3.0.2-pyhd3eb1b0_0
++defaults/noarch::plotly-5.1.0-pyhd3eb1b0_0
++defaults/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
++defaults/noarch::pytz-2021.3-pyhd3eb1b0_0
++defaults/noarch::werkzeug-2.0.2-pyhd3eb1b0_0
++defaults/win-64::blas-1.0-mkl
++defaults/win-64::bottleneck-1.3.2-py37h2a96729_1
++defaults/win-64::brotli-python-1.0.9-py37h82bb817_2
++defaults/win-64::future-0.18.2-py37_1
++defaults/win-64::intel-openmp-2021.4.0-haa95532_3556
++defaults/win-64::markupsafe-2.0.1-py37h2bbff1b_0
++defaults/win-64::mkl-2021.4.0-haa95532_640
++defaults/win-64::mkl-service-2.4.0-py37h2bbff1b_0
++defaults/win-64::mkl_fft-1.3.1-py37h277e83a_0
++defaults/win-64::mkl_random-1.2.2-py37hf11a4ad_0
++defaults/win-64::numexpr-2.7.3-py37hb80d3ca_1
++defaults/win-64::numpy-1.21.2-py37hfca59bb_0
++defaults/win-64::numpy-base-1.21.2-py37h0829f74_0
++defaults/win-64::pandas-1.3.4-py37h6214cd6_0
++defaults/win-64::pyyaml-6.0-py37h2bbff1b_1
++defaults/win-64::six-1.15.0-py37haa95532_0
++defaults/win-64::tenacity-8.0.1-py37haa95532_0
++defaults/win-64::yaml-0.2.5-he774522_0
+# update specs: ['plotly', 'numpy', 'pandas', 'dash']

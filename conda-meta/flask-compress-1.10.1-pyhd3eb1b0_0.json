@@ -1,0 +1,145 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "brotli-python",
+    "flask",
+    "python >=2.7"
+  ],
+  "extracted_package_dir": "C:\\Users\\dell\\Anaconda3\\pkgs\\flask-compress-1.10.1-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/Flask_Compress-1.10.1.dist-info/INSTALLER",
+    "Lib/site-packages/Flask_Compress-1.10.1.dist-info/LICENSE.txt",
+    "Lib/site-packages/Flask_Compress-1.10.1.dist-info/METADATA",
+    "Lib/site-packages/Flask_Compress-1.10.1.dist-info/RECORD",
+    "Lib/site-packages/Flask_Compress-1.10.1.dist-info/REQUESTED",
+    "Lib/site-packages/Flask_Compress-1.10.1.dist-info/WHEEL",
+    "Lib/site-packages/Flask_Compress-1.10.1.dist-info/direct_url.json",
+    "Lib/site-packages/Flask_Compress-1.10.1.dist-info/top_level.txt",
+    "Lib/site-packages/flask_compress/__init__.py",
+    "Lib/site-packages/flask_compress/_version.py",
+    "Lib/site-packages/flask_compress/flask_compress.py",
+    ".nonadmin",
+    "Lib/site-packages/flask_compress/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/flask_compress/__pycache__/_version.cpython-37.pyc",
+    "Lib/site-packages/flask_compress/__pycache__/flask_compress.cpython-37.pyc"
+  ],
+  "fn": "flask-compress-1.10.1-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "f6d4e88d423859938aedbd8f5098c58d",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\dell\\Anaconda3\\pkgs\\flask-compress-1.10.1-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "b9f9d0ea2ef5671a6ddc9b35da1e0621",
+  "name": "flask-compress",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\dell\\Anaconda3\\pkgs\\flask-compress-1.10.1-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/Flask_Compress-1.10.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/Flask_Compress-1.10.1.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "a19e75a2c6ab5168e1c0f185f6d14b4f0130cd926511b88f3382833a211e2269",
+        "sha256_in_prefix": "a19e75a2c6ab5168e1c0f185f6d14b4f0130cd926511b88f3382833a211e2269",
+        "size_in_bytes": 1085
+      },
+      {
+        "_path": "site-packages/Flask_Compress-1.10.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "779a2af6c8e920ec603e8b43abc096ab57d3f6039dae7f82371bf09b0741378e",
+        "sha256_in_prefix": "779a2af6c8e920ec603e8b43abc096ab57d3f6039dae7f82371bf09b0741378e",
+        "size_in_bytes": 6568
+      },
+      {
+        "_path": "site-packages/Flask_Compress-1.10.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a2c1c50a31564e0f786260df1f22792dc27f77af2c70ce1f0be30fc5b4bc67e0",
+        "sha256_in_prefix": "a2c1c50a31564e0f786260df1f22792dc27f77af2c70ce1f0be30fc5b4bc67e0",
+        "size_in_bytes": 1153
+      },
+      {
+        "_path": "site-packages/Flask_Compress-1.10.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/Flask_Compress-1.10.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/Flask_Compress-1.10.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "474552ccd7cd38fc3ffebbb2f8322f7d0930e71290b59b566e3bc6b05187a962",
+        "sha256_in_prefix": "474552ccd7cd38fc3ffebbb2f8322f7d0930e71290b59b566e3bc6b05187a962",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "site-packages/Flask_Compress-1.10.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "47b72a9dc35a6769aff1e3b8fa1661260bf926ce15f4a1e6885b163dcde51bcc",
+        "sha256_in_prefix": "47b72a9dc35a6769aff1e3b8fa1661260bf926ce15f4a1e6885b163dcde51bcc",
+        "size_in_bytes": 15
+      },
+      {
+        "_path": "site-packages/flask_compress/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "8764d3f7377112ec6e759937f8473e2ee1aab4ecf891e6626950b64466a31be9",
+        "sha256_in_prefix": "8764d3f7377112ec6e759937f8473e2ee1aab4ecf891e6626950b64466a31be9",
+        "size_in_bytes": 350
+      },
+      {
+        "_path": "site-packages/flask_compress/_version.py",
+        "path_type": "hardlink",
+        "sha256": "5c9c518def2e324a68cd329e233d47f688d4d036caa18a7c9701cbefba70e782",
+        "sha256_in_prefix": "5c9c518def2e324a68cd329e233d47f688d4d036caa18a7c9701cbefba70e782",
+        "size_in_bytes": 23
+      },
+      {
+        "_path": "site-packages/flask_compress/flask_compress.py",
+        "path_type": "hardlink",
+        "sha256": "2f68fad10a3683517197f745f8810ff09bd5186a52a15b991014d41602f85571",
+        "sha256_in_prefix": "2f68fad10a3683517197f745f8810ff09bd5186a52a15b991014d41602f85571",
+        "size_in_bytes": 9012
+      },
+      {
+        "_path": "Lib/site-packages/flask_compress/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_compress/__pycache__/_version.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_compress/__pycache__/flask_compress.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b3f038466163d38d26512ddda116395c30c2164f69ba8ee7449ece21f879840f",
+  "size": 14395,
+  "subdir": "noarch",
+  "timestamp": 1623922849363,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/flask-compress-1.10.1-pyhd3eb1b0_0.conda",
+  "version": "1.10.1"
+}

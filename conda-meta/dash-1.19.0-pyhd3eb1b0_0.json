@@ -1,0 +1,560 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "dash-core-components 1.3.1",
+    "dash-html-components 1.0.1",
+    "dash-renderer 1.1.2",
+    "dash-table 4.4.1",
+    "flask >=1.0.2",
+    "flask-compress",
+    "future",
+    "plotly",
+    "python",
+    "pyyaml >=5.1.1"
+  ],
+  "extracted_package_dir": "C:\\Users\\dell\\Anaconda3\\pkgs\\dash-1.19.0-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Scripts/dash-generate-components",
+    "Scripts/renderer",
+    "Lib/site-packages/dash-1.19.0.dist-info/INSTALLER",
+    "Lib/site-packages/dash-1.19.0.dist-info/LICENSE",
+    "Lib/site-packages/dash-1.19.0.dist-info/METADATA",
+    "Lib/site-packages/dash-1.19.0.dist-info/RECORD",
+    "Lib/site-packages/dash-1.19.0.dist-info/REQUESTED",
+    "Lib/site-packages/dash-1.19.0.dist-info/WHEEL",
+    "Lib/site-packages/dash-1.19.0.dist-info/direct_url.json",
+    "Lib/site-packages/dash-1.19.0.dist-info/entry_points.txt",
+    "Lib/site-packages/dash-1.19.0.dist-info/top_level.txt",
+    "Lib/site-packages/dash/__init__.py",
+    "Lib/site-packages/dash/_callback_context.py",
+    "Lib/site-packages/dash/_configs.py",
+    "Lib/site-packages/dash/_utils.py",
+    "Lib/site-packages/dash/_validate.py",
+    "Lib/site-packages/dash/_watch.py",
+    "Lib/site-packages/dash/dash.py",
+    "Lib/site-packages/dash/dependencies.py",
+    "Lib/site-packages/dash/development/__init__.py",
+    "Lib/site-packages/dash/development/_all_keywords.py",
+    "Lib/site-packages/dash/development/_jl_components_generation.py",
+    "Lib/site-packages/dash/development/_py_components_generation.py",
+    "Lib/site-packages/dash/development/_r_components_generation.py",
+    "Lib/site-packages/dash/development/base_component.py",
+    "Lib/site-packages/dash/development/build_process.py",
+    "Lib/site-packages/dash/development/component_generator.py",
+    "Lib/site-packages/dash/development/component_loader.py",
+    "Lib/site-packages/dash/exceptions.py",
+    "Lib/site-packages/dash/extract-meta.js",
+    "Lib/site-packages/dash/favicon.ico",
+    "Lib/site-packages/dash/fingerprint.py",
+    "Lib/site-packages/dash/resources.py",
+    "Lib/site-packages/dash/testing/__init__.py",
+    "Lib/site-packages/dash/testing/application_runners.py",
+    "Lib/site-packages/dash/testing/browser.py",
+    "Lib/site-packages/dash/testing/composite.py",
+    "Lib/site-packages/dash/testing/consts.py",
+    "Lib/site-packages/dash/testing/dash_page.py",
+    "Lib/site-packages/dash/testing/errors.py",
+    "Lib/site-packages/dash/testing/newhooks.py",
+    "Lib/site-packages/dash/testing/plugin.py",
+    "Lib/site-packages/dash/testing/wait.py",
+    "Lib/site-packages/dash/version.py",
+    ".nonadmin",
+    "Lib/site-packages/dash/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/dash/__pycache__/_callback_context.cpython-37.pyc",
+    "Lib/site-packages/dash/__pycache__/_configs.cpython-37.pyc",
+    "Lib/site-packages/dash/__pycache__/_utils.cpython-37.pyc",
+    "Lib/site-packages/dash/__pycache__/_validate.cpython-37.pyc",
+    "Lib/site-packages/dash/__pycache__/_watch.cpython-37.pyc",
+    "Lib/site-packages/dash/__pycache__/dash.cpython-37.pyc",
+    "Lib/site-packages/dash/__pycache__/dependencies.cpython-37.pyc",
+    "Lib/site-packages/dash/development/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/dash/development/__pycache__/_all_keywords.cpython-37.pyc",
+    "Lib/site-packages/dash/development/__pycache__/_jl_components_generation.cpython-37.pyc",
+    "Lib/site-packages/dash/development/__pycache__/_py_components_generation.cpython-37.pyc",
+    "Lib/site-packages/dash/development/__pycache__/_r_components_generation.cpython-37.pyc",
+    "Lib/site-packages/dash/development/__pycache__/base_component.cpython-37.pyc",
+    "Lib/site-packages/dash/development/__pycache__/build_process.cpython-37.pyc",
+    "Lib/site-packages/dash/development/__pycache__/component_generator.cpython-37.pyc",
+    "Lib/site-packages/dash/development/__pycache__/component_loader.cpython-37.pyc",
+    "Lib/site-packages/dash/__pycache__/exceptions.cpython-37.pyc",
+    "Lib/site-packages/dash/__pycache__/fingerprint.cpython-37.pyc",
+    "Lib/site-packages/dash/__pycache__/resources.cpython-37.pyc",
+    "Lib/site-packages/dash/testing/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/dash/testing/__pycache__/application_runners.cpython-37.pyc",
+    "Lib/site-packages/dash/testing/__pycache__/browser.cpython-37.pyc",
+    "Lib/site-packages/dash/testing/__pycache__/composite.cpython-37.pyc",
+    "Lib/site-packages/dash/testing/__pycache__/consts.cpython-37.pyc",
+    "Lib/site-packages/dash/testing/__pycache__/dash_page.cpython-37.pyc",
+    "Lib/site-packages/dash/testing/__pycache__/errors.cpython-37.pyc",
+    "Lib/site-packages/dash/testing/__pycache__/newhooks.cpython-37.pyc",
+    "Lib/site-packages/dash/testing/__pycache__/plugin.cpython-37.pyc",
+    "Lib/site-packages/dash/testing/__pycache__/wait.cpython-37.pyc",
+    "Lib/site-packages/dash/__pycache__/version.cpython-37.pyc"
+  ],
+  "fn": "dash-1.19.0-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "cff942efb6e6b381b59d5acf8871ee44",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\dell\\Anaconda3\\pkgs\\dash-1.19.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "197e1ef0e7a53f21bef021ba648f06b2",
+  "name": "dash",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\dell\\Anaconda3\\pkgs\\dash-1.19.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "python-scripts/dash-generate-components",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/tmp/build/80754af9/dash_1611168717544/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "7c9d53585221954fac5a2fd91d7d8e09ed5dd86a9b9bd4b8e8013810c18904ee",
+        "sha256_in_prefix": "b8ef41a330eadc877979f88dd30b56c4eb21a2c35bdd399caebaf399b1789f45",
+        "size_in_bytes": 516
+      },
+      {
+        "_path": "python-scripts/renderer",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/tmp/build/80754af9/dash_1611168717544/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "485e4b69f549216bd449dc4881b16bbfef6877ad659c0e52146e11cad85c1c29",
+        "sha256_in_prefix": "2b7e85e869179e33479bcec283338f20bab17bd9d81084d3230281588565c631",
+        "size_in_bytes": 520
+      },
+      {
+        "_path": "site-packages/dash-1.19.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/dash-1.19.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "d2fc53bed9f2d5f1f9acc5facc090a61791cc476ff3d7e97ca3286907e9bdedc",
+        "sha256_in_prefix": "d2fc53bed9f2d5f1f9acc5facc090a61791cc476ff3d7e97ca3286907e9bdedc",
+        "size_in_bytes": 1078
+      },
+      {
+        "_path": "site-packages/dash-1.19.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "b3a347c8fb3c720c212a452bff3fcd29e110f27b2bb3883e56ab925a5db3eb20",
+        "sha256_in_prefix": "b3a347c8fb3c720c212a452bff3fcd29e110f27b2bb3883e56ab925a5db3eb20",
+        "size_in_bytes": 10348
+      },
+      {
+        "_path": "site-packages/dash-1.19.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d2d035f62e4f97dd72d1418906c409d843173f9b33152c694f2ad20683810e93",
+        "sha256_in_prefix": "d2d035f62e4f97dd72d1418906c409d843173f9b33152c694f2ad20683810e93",
+        "size_in_bytes": 5289
+      },
+      {
+        "_path": "site-packages/dash-1.19.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/dash-1.19.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/dash-1.19.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a69fd5c2d51e2ba9c301104805b8fdd529a209170b4d2245bff13625a6e92aaf",
+        "sha256_in_prefix": "a69fd5c2d51e2ba9c301104805b8fdd529a209170b4d2245bff13625a6e92aaf",
+        "size_in_bytes": 77
+      },
+      {
+        "_path": "site-packages/dash-1.19.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "b53900ff69fd8c90fab45db079d220bdcf5954824306234fe68a80511d11ef35",
+        "sha256_in_prefix": "b53900ff69fd8c90fab45db079d220bdcf5954824306234fe68a80511d11ef35",
+        "size_in_bytes": 177
+      },
+      {
+        "_path": "site-packages/dash-1.19.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "f8359416cedbf4b44bd1cab71b791b4121e3b33748187c530e70207af87c3f39",
+        "sha256_in_prefix": "f8359416cedbf4b44bd1cab71b791b4121e3b33748187c530e70207af87c3f39",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/dash/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5c0c26bff8fb77901bd3dc1704fff1d422a23ab6f153a7c9dd09e9f57b36bb89",
+        "sha256_in_prefix": "5c0c26bff8fb77901bd3dc1704fff1d422a23ab6f153a7c9dd09e9f57b36bb89",
+        "size_in_bytes": 503
+      },
+      {
+        "_path": "site-packages/dash/_callback_context.py",
+        "path_type": "hardlink",
+        "sha256": "ea9d789c1341ef69141182cbdf50ef8cad3e06dac1ac0c3441066fdc1a795848",
+        "sha256_in_prefix": "ea9d789c1341ef69141182cbdf50ef8cad3e06dac1ac0c3441066fdc1a795848",
+        "size_in_bytes": 2745
+      },
+      {
+        "_path": "site-packages/dash/_configs.py",
+        "path_type": "hardlink",
+        "sha256": "41b9edf4d169c11ce1566653e6648e952784fc92d1b820f735bd7b17b93a80d9",
+        "sha256_in_prefix": "41b9edf4d169c11ce1566653e6648e952784fc92d1b820f735bd7b17b93a80d9",
+        "size_in_bytes": 4485
+      },
+      {
+        "_path": "site-packages/dash/_utils.py",
+        "path_type": "hardlink",
+        "sha256": "cc4e1e584fd47ef2e5a33ee009d2f56f8abf6646c5ac5e2d0e07925d740df646",
+        "sha256_in_prefix": "cc4e1e584fd47ef2e5a33ee009d2f56f8abf6646c5ac5e2d0e07925d740df646",
+        "size_in_bytes": 7490
+      },
+      {
+        "_path": "site-packages/dash/_validate.py",
+        "path_type": "hardlink",
+        "sha256": "d7a98e62552840c2811f14f94c32cb12b4975de3ef588f7cea9b22663ec83cfb",
+        "sha256_in_prefix": "d7a98e62552840c2811f14f94c32cb12b4975de3ef588f7cea9b22663ec83cfb",
+        "size_in_bytes": 12498
+      },
+      {
+        "_path": "site-packages/dash/_watch.py",
+        "path_type": "hardlink",
+        "sha256": "b3c97f20736824b27e0e95abb9e417ca24b673f75e136bc7939fe0f6346df7c6",
+        "sha256_in_prefix": "b3c97f20736824b27e0e95abb9e417ca24b673f75e136bc7939fe0f6346df7c6",
+        "size_in_bytes": 1024
+      },
+      {
+        "_path": "site-packages/dash/dash.py",
+        "path_type": "hardlink",
+        "sha256": "2c676e4653e8ea799628b6f113ac4063cd789e1623265de85ac250b776409486",
+        "sha256_in_prefix": "2c676e4653e8ea799628b6f113ac4063cd789e1623265de85ac250b776409486",
+        "size_in_bytes": 66552
+      },
+      {
+        "_path": "site-packages/dash/dependencies.py",
+        "path_type": "hardlink",
+        "sha256": "b0f5df4dd1bc469d58b8a81e18eb8682b86e3964a95f98c7ac8636f54c35ddc2",
+        "sha256_in_prefix": "b0f5df4dd1bc469d58b8a81e18eb8682b86e3964a95f98c7ac8636f54c35ddc2",
+        "size_in_bytes": 6232
+      },
+      {
+        "_path": "site-packages/dash/development/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "fe341a9fe9f8ff1360ff82953f4749a5c296364428d14938c4cc498fac00c6b1",
+        "sha256_in_prefix": "fe341a9fe9f8ff1360ff82953f4749a5c296364428d14938c4cc498fac00c6b1",
+        "size_in_bytes": 86
+      },
+      {
+        "_path": "site-packages/dash/development/_all_keywords.py",
+        "path_type": "hardlink",
+        "sha256": "83ed6fa821dbaba60d0fb615be2a81918db239ee711197a41ed1f3702bd93042",
+        "sha256_in_prefix": "83ed6fa821dbaba60d0fb615be2a81918db239ee711197a41ed1f3702bd93042",
+        "size_in_bytes": 1493
+      },
+      {
+        "_path": "site-packages/dash/development/_jl_components_generation.py",
+        "path_type": "hardlink",
+        "sha256": "d63bf1ac1bfe0b310afc55a3c4ff6dab025650bd954c80ab8b57d0897467bf72",
+        "sha256_in_prefix": "d63bf1ac1bfe0b310afc55a3c4ff6dab025650bd954c80ab8b57d0897467bf72",
+        "size_in_bytes": 16984
+      },
+      {
+        "_path": "site-packages/dash/development/_py_components_generation.py",
+        "path_type": "hardlink",
+        "sha256": "1d34824b53a0c1c290d519da8b0c1b3eb46acfb47e66aa1c472dd86ae1885659",
+        "sha256_in_prefix": "1d34824b53a0c1c290d519da8b0c1b3eb46acfb47e66aa1c472dd86ae1885659",
+        "size_in_bytes": 19440
+      },
+      {
+        "_path": "site-packages/dash/development/_r_components_generation.py",
+        "path_type": "hardlink",
+        "sha256": "041a97e94bbd01b9cf5b41e63c32df224447eac865ae622d8e6e80aa44af4483",
+        "sha256_in_prefix": "041a97e94bbd01b9cf5b41e63c32df224447eac865ae622d8e6e80aa44af4483",
+        "size_in_bytes": 32039
+      },
+      {
+        "_path": "site-packages/dash/development/base_component.py",
+        "path_type": "hardlink",
+        "sha256": "7dab953282bd13171694de9e2cdd5cdb373753389c1e3ec41a4aeff3212d188a",
+        "sha256_in_prefix": "7dab953282bd13171694de9e2cdd5cdb373753389c1e3ec41a4aeff3212d188a",
+        "size_in_bytes": 13541
+      },
+      {
+        "_path": "site-packages/dash/development/build_process.py",
+        "path_type": "hardlink",
+        "sha256": "2cf7935b4eb3d8a3267d744a13676b284ab34e1bc6d35638291b1a2bbd962301",
+        "sha256_in_prefix": "2cf7935b4eb3d8a3267d744a13676b284ab34e1bc6d35638291b1a2bbd962301",
+        "size_in_bytes": 5896
+      },
+      {
+        "_path": "site-packages/dash/development/component_generator.py",
+        "path_type": "hardlink",
+        "sha256": "9745dcf66906c1d2734fa0e679a2921a24092659f7afe860e0ddb31228bb0414",
+        "sha256_in_prefix": "9745dcf66906c1d2734fa0e679a2921a24092659f7afe860e0ddb31228bb0414",
+        "size_in_bytes": 6643
+      },
+      {
+        "_path": "site-packages/dash/development/component_loader.py",
+        "path_type": "hardlink",
+        "sha256": "fdeb3891a796859c82155d54a15ffd81329b22707b2cac735230eb72ed90a949",
+        "sha256_in_prefix": "fdeb3891a796859c82155d54a15ffd81329b22707b2cac735230eb72ed90a949",
+        "size_in_bytes": 2664
+      },
+      {
+        "_path": "site-packages/dash/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "66d8098e56455c4a0c83d47c1c2e3d5dfc33d544424c524b1413de33801efe52",
+        "sha256_in_prefix": "66d8098e56455c4a0c83d47c1c2e3d5dfc33d544424c524b1413de33801efe52",
+        "size_in_bytes": 1229
+      },
+      {
+        "_path": "site-packages/dash/extract-meta.js",
+        "path_type": "hardlink",
+        "sha256": "76b8fc7be3e9dce3aebaf08e51a2b6243d9a59120cf3299f4135c9dd53796025",
+        "sha256_in_prefix": "76b8fc7be3e9dce3aebaf08e51a2b6243d9a59120cf3299f4135c9dd53796025",
+        "size_in_bytes": 3347
+      },
+      {
+        "_path": "site-packages/dash/favicon.ico",
+        "path_type": "hardlink",
+        "sha256": "4cf79d70ec0288ac3ffc83e52adcd742e782a24ce625acdb24fe98554dd72906",
+        "sha256_in_prefix": "4cf79d70ec0288ac3ffc83e52adcd742e782a24ce625acdb24fe98554dd72906",
+        "size_in_bytes": 9662
+      },
+      {
+        "_path": "site-packages/dash/fingerprint.py",
+        "path_type": "hardlink",
+        "sha256": "0eefb1cecc168c6c3b82bb7010117e47eea74b6a0a84e82a928811c28493a46c",
+        "sha256_in_prefix": "0eefb1cecc168c6c3b82bb7010117e47eea74b6a0a84e82a928811c28493a46c",
+        "size_in_bytes": 794
+      },
+      {
+        "_path": "site-packages/dash/resources.py",
+        "path_type": "hardlink",
+        "sha256": "170f5b5a287a2b3b29c47394d6e4023f4729e18e79904073f2843e47b0cc0d9b",
+        "sha256_in_prefix": "170f5b5a287a2b3b29c47394d6e4023f4729e18e79904073f2843e47b0cc0d9b",
+        "size_in_bytes": 4781
+      },
+      {
+        "_path": "site-packages/dash/testing/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/dash/testing/application_runners.py",
+        "path_type": "hardlink",
+        "sha256": "3fd139a195773c5ed1bf517c192b93b1ed53591c512115ee4a821231d4a1b605",
+        "sha256_in_prefix": "3fd139a195773c5ed1bf517c192b93b1ed53591c512115ee4a821231d4a1b605",
+        "size_in_bytes": 15771
+      },
+      {
+        "_path": "site-packages/dash/testing/browser.py",
+        "path_type": "hardlink",
+        "sha256": "ca9935e39fb65bea30b69aeec0b2780c20a282629478e251b5f1e910eda54670",
+        "sha256_in_prefix": "ca9935e39fb65bea30b69aeec0b2780c20a282629478e251b5f1e910eda54670",
+        "size_in_bytes": 22385
+      },
+      {
+        "_path": "site-packages/dash/testing/composite.py",
+        "path_type": "hardlink",
+        "sha256": "18512299f6e5473f02baa3ec00bfa1e5c6c88ad67ba552feca3fd957f54db3dd",
+        "sha256_in_prefix": "18512299f6e5473f02baa3ec00bfa1e5c6c88ad67ba552feca3fd957f54db3dd",
+        "size_in_bytes": 1502
+      },
+      {
+        "_path": "site-packages/dash/testing/consts.py",
+        "path_type": "hardlink",
+        "sha256": "296cbf7687463945398a128de198c0ddb9b3a7e00e8834d1e2b6f81e316d6f88",
+        "sha256_in_prefix": "296cbf7687463945398a128de198c0ddb9b3a7e00e8834d1e2b6f81e316d6f88",
+        "size_in_bytes": 55
+      },
+      {
+        "_path": "site-packages/dash/testing/dash_page.py",
+        "path_type": "hardlink",
+        "sha256": "f247d9da9c62c66b364f22ecd567b8c3b24f912df4a5736c57da528913e58a16",
+        "sha256_in_prefix": "f247d9da9c62c66b364f22ecd567b8c3b24f912df4a5736c57da528913e58a16",
+        "size_in_bytes": 2950
+      },
+      {
+        "_path": "site-packages/dash/testing/errors.py",
+        "path_type": "hardlink",
+        "sha256": "1462b5ffc2a4cb94eaed589bf11fb404ffb3392c7391fc55b9ed3afe90beca83",
+        "sha256_in_prefix": "1462b5ffc2a4cb94eaed589bf11fb404ffb3392c7391fc55b9ed3afe90beca83",
+        "size_in_bytes": 599
+      },
+      {
+        "_path": "site-packages/dash/testing/newhooks.py",
+        "path_type": "hardlink",
+        "sha256": "9407906864e4a140ddf0eb1cf61c622e86e60fc798a86a24c06b81c450efedf5",
+        "sha256_in_prefix": "9407906864e4a140ddf0eb1cf61c622e86e60fc798a86a24c06b81c450efedf5",
+        "size_in_bytes": 78
+      },
+      {
+        "_path": "site-packages/dash/testing/plugin.py",
+        "path_type": "hardlink",
+        "sha256": "87db79213c7af0e504dddadb0b63fa01536fdfa851d89c0ca561996f467d3a32",
+        "sha256_in_prefix": "87db79213c7af0e504dddadb0b63fa01536fdfa851d89c0ca561996f467d3a32",
+        "size_in_bytes": 6035
+      },
+      {
+        "_path": "site-packages/dash/testing/wait.py",
+        "path_type": "hardlink",
+        "sha256": "ff41315d9bc27a98276326546503ec9c317bf896bd3d2c0335634df23ce55140",
+        "sha256_in_prefix": "ff41315d9bc27a98276326546503ec9c317bf896bd3d2c0335634df23ce55140",
+        "size_in_bytes": 2877
+      },
+      {
+        "_path": "site-packages/dash/version.py",
+        "path_type": "hardlink",
+        "sha256": "448ea2b1e0d22ffa8cc4570857444a9f34777d922f82ec502b8780fefd0b5707",
+        "sha256_in_prefix": "448ea2b1e0d22ffa8cc4570857444a9f34777d922f82ec502b8780fefd0b5707",
+        "size_in_bytes": 23
+      },
+      {
+        "_path": "Lib/site-packages/dash/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/__pycache__/_callback_context.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/__pycache__/_configs.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/__pycache__/_utils.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/__pycache__/_validate.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/__pycache__/_watch.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/__pycache__/dash.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/__pycache__/dependencies.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/development/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/development/__pycache__/_all_keywords.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/development/__pycache__/_jl_components_generation.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/development/__pycache__/_py_components_generation.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/development/__pycache__/_r_components_generation.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/development/__pycache__/base_component.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/development/__pycache__/build_process.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/development/__pycache__/component_generator.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/development/__pycache__/component_loader.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/__pycache__/exceptions.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/__pycache__/fingerprint.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/__pycache__/resources.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/testing/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/testing/__pycache__/application_runners.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/testing/__pycache__/browser.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/testing/__pycache__/composite.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/testing/__pycache__/consts.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/testing/__pycache__/dash_page.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/testing/__pycache__/errors.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/testing/__pycache__/newhooks.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/testing/__pycache__/plugin.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/testing/__pycache__/wait.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash/__pycache__/version.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "dash",
+  "sha256": "83a7983e48dfe974869a6d726ba41b489b6eff6a05a90d09ef1e6402ef6f3e31",
+  "size": 70765,
+  "subdir": "noarch",
+  "timestamp": 1611168747194,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/dash-1.19.0-pyhd3eb1b0_0.conda",
+  "version": "1.19.0"
+}

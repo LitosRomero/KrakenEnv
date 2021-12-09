@@ -1,0 +1,441 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "dash",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\dell\\Anaconda3\\pkgs\\dash-core-components-1.3.1-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/dash_core_components-1.3.1.dist-info/INSTALLER",
+    "Lib/site-packages/dash_core_components-1.3.1.dist-info/METADATA",
+    "Lib/site-packages/dash_core_components-1.3.1.dist-info/RECORD",
+    "Lib/site-packages/dash_core_components-1.3.1.dist-info/WHEEL",
+    "Lib/site-packages/dash_core_components-1.3.1.dist-info/top_level.txt",
+    "Lib/site-packages/dash_core_components/Checklist.py",
+    "Lib/site-packages/dash_core_components/ConfirmDialog.py",
+    "Lib/site-packages/dash_core_components/ConfirmDialogProvider.py",
+    "Lib/site-packages/dash_core_components/DatePickerRange.py",
+    "Lib/site-packages/dash_core_components/DatePickerSingle.py",
+    "Lib/site-packages/dash_core_components/Dropdown.py",
+    "Lib/site-packages/dash_core_components/Graph.py",
+    "Lib/site-packages/dash_core_components/Input.py",
+    "Lib/site-packages/dash_core_components/Interval.py",
+    "Lib/site-packages/dash_core_components/Link.py",
+    "Lib/site-packages/dash_core_components/Loading.py",
+    "Lib/site-packages/dash_core_components/Location.py",
+    "Lib/site-packages/dash_core_components/LogoutButton.py",
+    "Lib/site-packages/dash_core_components/Markdown.py",
+    "Lib/site-packages/dash_core_components/RadioItems.py",
+    "Lib/site-packages/dash_core_components/RangeSlider.py",
+    "Lib/site-packages/dash_core_components/Slider.py",
+    "Lib/site-packages/dash_core_components/Store.py",
+    "Lib/site-packages/dash_core_components/Tab.py",
+    "Lib/site-packages/dash_core_components/Tabs.py",
+    "Lib/site-packages/dash_core_components/Textarea.py",
+    "Lib/site-packages/dash_core_components/Upload.py",
+    "Lib/site-packages/dash_core_components/__init__.py",
+    "Lib/site-packages/dash_core_components/_imports_.py",
+    "Lib/site-packages/dash_core_components/dash_core_components.min.js",
+    "Lib/site-packages/dash_core_components/dash_core_components.min.js.map",
+    "Lib/site-packages/dash_core_components/highlight.pack.js",
+    "Lib/site-packages/dash_core_components/metadata.json",
+    "Lib/site-packages/dash_core_components/package-info.json",
+    "Lib/site-packages/dash_core_components/plotly-1.50.1.min.js",
+    ".nonadmin",
+    "Lib/site-packages/dash_core_components/__pycache__/Checklist.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/ConfirmDialog.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/ConfirmDialogProvider.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/DatePickerRange.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/DatePickerSingle.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/Dropdown.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/Graph.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/Input.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/Interval.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/Link.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/Loading.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/Location.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/LogoutButton.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/Markdown.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/RadioItems.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/RangeSlider.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/Slider.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/Store.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/Tab.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/Tabs.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/Textarea.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/Upload.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/dash_core_components/__pycache__/_imports_.cpython-37.pyc"
+  ],
+  "fn": "dash-core-components-1.3.1-py_0.conda",
+  "legacy_bz2_md5": "92a34238c7d16771e00b20c124f05805",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\dell\\Anaconda3\\pkgs\\dash-core-components-1.3.1-py_0",
+    "type": 1
+  },
+  "md5": "59fa10d50cafab6b74a88ca83821dfe1",
+  "name": "dash-core-components",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\dell\\Anaconda3\\pkgs\\dash-core-components-1.3.1-py_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/dash_core_components-1.3.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/dash_core_components-1.3.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "0924798739c0cb2454b28b7bddcb15b10bf84575624ef2cc0653288464c7952b",
+        "sha256_in_prefix": "0924798739c0cb2454b28b7bddcb15b10bf84575624ef2cc0653288464c7952b",
+        "size_in_bytes": 229
+      },
+      {
+        "_path": "site-packages/dash_core_components-1.3.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "ce10a67fa1d2c93c489c088f6493fe50147b2e6e409c69dbdbf8dffd3f2880f8",
+        "sha256_in_prefix": "ce10a67fa1d2c93c489c088f6493fe50147b2e6e409c69dbdbf8dffd3f2880f8",
+        "size_in_bytes": 4149
+      },
+      {
+        "_path": "site-packages/dash_core_components-1.3.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "23bf6aa29589ebd9794fac196b2b7d55438c79c19918fceedbf89c6d16168e92",
+        "sha256_in_prefix": "23bf6aa29589ebd9794fac196b2b7d55438c79c19918fceedbf89c6d16168e92",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "site-packages/dash_core_components-1.3.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "0d5d000c25535e0119732f181ba6cdc155b614eaad4b87db86ceadf561bd612b",
+        "sha256_in_prefix": "0d5d000c25535e0119732f181ba6cdc155b614eaad4b87db86ceadf561bd612b",
+        "size_in_bytes": 21
+      },
+      {
+        "_path": "site-packages/dash_core_components/Checklist.py",
+        "path_type": "hardlink",
+        "sha256": "e6dac19c5cb82a2e911a014c79d5f7554fd74caf256497f4e6a7c8e4d524c4d7",
+        "sha256_in_prefix": "e6dac19c5cb82a2e911a014c79d5f7554fd74caf256497f4e6a7c8e4d524c4d7",
+        "size_in_bytes": 4651
+      },
+      {
+        "_path": "site-packages/dash_core_components/ConfirmDialog.py",
+        "path_type": "hardlink",
+        "sha256": "b30cac61bfbff423b7d7dafcd0e05254d31d33d6483a42f5ddbf89e32e24fb8e",
+        "sha256_in_prefix": "b30cac61bfbff423b7d7dafcd0e05254d31d33d6483a42f5ddbf89e32e24fb8e",
+        "size_in_bytes": 2369
+      },
+      {
+        "_path": "site-packages/dash_core_components/ConfirmDialogProvider.py",
+        "path_type": "hardlink",
+        "sha256": "805bb0d9a1a5498544eea2273abd52b615138e7c5d6ddb2c17bf9a814a8b6a70",
+        "sha256_in_prefix": "805bb0d9a1a5498544eea2273abd52b615138e7c5d6ddb2c17bf9a814a8b6a70",
+        "size_in_bytes": 3107
+      },
+      {
+        "_path": "site-packages/dash_core_components/DatePickerRange.py",
+        "path_type": "hardlink",
+        "sha256": "b8a9f7056a9a3dcf90fd436ec86d6f9659b36cd3822eac91ecc1c0ce92a4c4f8",
+        "sha256_in_prefix": "b8a9f7056a9a3dcf90fd436ec86d6f9659b36cd3822eac91ecc1c0ce92a4c4f8",
+        "size_in_bytes": 9754
+      },
+      {
+        "_path": "site-packages/dash_core_components/DatePickerSingle.py",
+        "path_type": "hardlink",
+        "sha256": "c10fef1dbbfcf690a6a107239d6546870fd83b60337d84d330e0df138363aefe",
+        "sha256_in_prefix": "c10fef1dbbfcf690a6a107239d6546870fd83b60337d84d330e0df138363aefe",
+        "size_in_bytes": 8178
+      },
+      {
+        "_path": "site-packages/dash_core_components/Dropdown.py",
+        "path_type": "hardlink",
+        "sha256": "37b81ade54de804178646ff1af56c35128316d0b0d0c980ec76fa7222c42ecf8",
+        "sha256_in_prefix": "37b81ade54de804178646ff1af56c35128316d0b0d0c980ec76fa7222c42ecf8",
+        "size_in_bytes": 5763
+      },
+      {
+        "_path": "site-packages/dash_core_components/Graph.py",
+        "path_type": "hardlink",
+        "sha256": "c0c0989035d0e3e91264375d449f14590b03bf7bf40eb746415f33517e649642",
+        "sha256_in_prefix": "c0c0989035d0e3e91264375d449f14590b03bf7bf40eb746415f33517e649642",
+        "size_in_bytes": 11987
+      },
+      {
+        "_path": "site-packages/dash_core_components/Input.py",
+        "path_type": "hardlink",
+        "sha256": "4c571789b3671e0d7dcf71f1066574ee194c5df24b2925a7a8efada111c4ea69",
+        "sha256_in_prefix": "4c571789b3671e0d7dcf71f1066574ee194c5df24b2925a7a8efada111c4ea69",
+        "size_in_bytes": 13356
+      },
+      {
+        "_path": "site-packages/dash_core_components/Interval.py",
+        "path_type": "hardlink",
+        "sha256": "284629c11e5762d651b593a4b2208ab2353971b2f917fa0eb0b0fcbdd5f286fd",
+        "sha256_in_prefix": "284629c11e5762d651b593a4b2208ab2353971b2f917fa0eb0b0fcbdd5f286fd",
+        "size_in_bytes": 2055
+      },
+      {
+        "_path": "site-packages/dash_core_components/Link.py",
+        "path_type": "hardlink",
+        "sha256": "5538c0d55474be3cc1a87bb0aa89a4cad4920f0dbf98993d70c8cb88cd8a038a",
+        "sha256_in_prefix": "5538c0d55474be3cc1a87bb0aa89a4cad4920f0dbf98993d70c8cb88cd8a038a",
+        "size_in_bytes": 2527
+      },
+      {
+        "_path": "site-packages/dash_core_components/Loading.py",
+        "path_type": "hardlink",
+        "sha256": "f74c840c4a5cfe21b5b3a954c77495f1b5e0ac710a888757be60a76fbc9ae338",
+        "sha256_in_prefix": "f74c840c4a5cfe21b5b3a954c77495f1b5e0ac710a888757be60a76fbc9ae338",
+        "size_in_bytes": 2992
+      },
+      {
+        "_path": "site-packages/dash_core_components/Location.py",
+        "path_type": "hardlink",
+        "sha256": "34e27ce726214f84262aa2725dfb70ed46f066b08ae9310d4d6ceafe2ee3c104",
+        "sha256_in_prefix": "34e27ce726214f84262aa2725dfb70ed46f066b08ae9310d4d6ceafe2ee3c104",
+        "size_in_bytes": 1964
+      },
+      {
+        "_path": "site-packages/dash_core_components/LogoutButton.py",
+        "path_type": "hardlink",
+        "sha256": "6da82de7d20814ffc6b39e720d24a8e80da54cfe7338f132ee18f6972db18739",
+        "sha256_in_prefix": "6da82de7d20814ffc6b39e720d24a8e80da54cfe7338f132ee18f6972db18739",
+        "size_in_bytes": 2885
+      },
+      {
+        "_path": "site-packages/dash_core_components/Markdown.py",
+        "path_type": "hardlink",
+        "sha256": "dc26305d4ebe40ab27e05c2ffe0c2f5c0102c680748f32b6a69ed3b1221ae9ce",
+        "sha256_in_prefix": "dc26305d4ebe40ab27e05c2ffe0c2f5c0102c680748f32b6a69ed3b1221ae9ce",
+        "size_in_bytes": 3313
+      },
+      {
+        "_path": "site-packages/dash_core_components/RadioItems.py",
+        "path_type": "hardlink",
+        "sha256": "139f64b4d9ca0ad38bb66278c5b271fbdfa0a6d59e8c7dcfa4f4e801617fe789",
+        "sha256_in_prefix": "139f64b4d9ca0ad38bb66278c5b271fbdfa0a6d59e8c7dcfa4f4e801617fe789",
+        "size_in_bytes": 4648
+      },
+      {
+        "_path": "site-packages/dash_core_components/RangeSlider.py",
+        "path_type": "hardlink",
+        "sha256": "00e5fb35c0b5ea336f0fbdcade56ab45c834a293d5aa3aec876bd8bc1a985059",
+        "sha256_in_prefix": "00e5fb35c0b5ea336f0fbdcade56ab45c834a293d5aa3aec876bd8bc1a985059",
+        "size_in_bytes": 6419
+      },
+      {
+        "_path": "site-packages/dash_core_components/Slider.py",
+        "path_type": "hardlink",
+        "sha256": "ab8f759f7451ece46b4ddf9ccdea520e5811676614964c53ad31daba1d07b053",
+        "sha256_in_prefix": "ab8f759f7451ece46b4ddf9ccdea520e5811676614964c53ad31daba1d07b053",
+        "size_in_bytes": 5751
+      },
+      {
+        "_path": "site-packages/dash_core_components/Store.py",
+        "path_type": "hardlink",
+        "sha256": "96ae6d9f4a6e9614ab06a9459e2c4685abd594f42170264e1d4bbe81072297f9",
+        "sha256_in_prefix": "96ae6d9f4a6e9614ab06a9459e2c4685abd594f42170264e1d4bbe81072297f9",
+        "size_in_bytes": 2123
+      },
+      {
+        "_path": "site-packages/dash_core_components/Tab.py",
+        "path_type": "hardlink",
+        "sha256": "9941dcdc144bec84aed63b087388dc19a2b48aba1403873473d402ee0f72e7de",
+        "sha256_in_prefix": "9941dcdc144bec84aed63b087388dc19a2b48aba1403873473d402ee0f72e7de",
+        "size_in_bytes": 3395
+      },
+      {
+        "_path": "site-packages/dash_core_components/Tabs.py",
+        "path_type": "hardlink",
+        "sha256": "215ac10c5f1ff476056a4a5b39aabf7a035670ceb794447a3ff4ba87d5421a2d",
+        "sha256_in_prefix": "215ac10c5f1ff476056a4a5b39aabf7a035670ceb794447a3ff4ba87d5421a2d",
+        "size_in_bytes": 5569
+      },
+      {
+        "_path": "site-packages/dash_core_components/Textarea.py",
+        "path_type": "hardlink",
+        "sha256": "fa8996d304e0b940618a8d20eb3a245d9e7c6fea1a155f2398e347f98e28bc83",
+        "sha256_in_prefix": "fa8996d304e0b940618a8d20eb3a245d9e7c6fea1a155f2398e347f98e28bc83",
+        "size_in_bytes": 7610
+      },
+      {
+        "_path": "site-packages/dash_core_components/Upload.py",
+        "path_type": "hardlink",
+        "sha256": "579b3e451037e785c3a946729e4a05b28a73dea1f07175e4e8806d7935963b72",
+        "sha256_in_prefix": "579b3e451037e785c3a946729e4a05b28a73dea1f07175e4e8806d7935963b72",
+        "size_in_bytes": 4939
+      },
+      {
+        "_path": "site-packages/dash_core_components/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "cde18e0fb054384fc34175b2e0f8a8368cd6716d83eb794d6828c7e4fbc5a4f7",
+        "sha256_in_prefix": "cde18e0fb054384fc34175b2e0f8a8368cd6716d83eb794d6828c7e4fbc5a4f7",
+        "size_in_bytes": 2307
+      },
+      {
+        "_path": "site-packages/dash_core_components/_imports_.py",
+        "path_type": "hardlink",
+        "sha256": "30dd0aebf88ad7f0dd1b9cfe802353d46e342379c530996fec0b8ef8fe264527",
+        "sha256_in_prefix": "30dd0aebf88ad7f0dd1b9cfe802353d46e342379c530996fec0b8ef8fe264527",
+        "size_in_bytes": 1095
+      },
+      {
+        "_path": "site-packages/dash_core_components/dash_core_components.min.js",
+        "path_type": "hardlink",
+        "sha256": "43b2c768480ce0a318839058069eb5c5ef22816c6ededdad2be5a4ce37d390df",
+        "sha256_in_prefix": "43b2c768480ce0a318839058069eb5c5ef22816c6ededdad2be5a4ce37d390df",
+        "size_in_bytes": 1105410
+      },
+      {
+        "_path": "site-packages/dash_core_components/dash_core_components.min.js.map",
+        "path_type": "hardlink",
+        "sha256": "645ad9c2a286cef3afa003f3eb4c9596b4db8a44d8a5384569868756ee316a33",
+        "sha256_in_prefix": "645ad9c2a286cef3afa003f3eb4c9596b4db8a44d8a5384569868756ee316a33",
+        "size_in_bytes": 3642790
+      },
+      {
+        "_path": "site-packages/dash_core_components/highlight.pack.js",
+        "path_type": "hardlink",
+        "sha256": "6148a8ec961a7eef930faedc5a0d540a83b7a726b69c9457a5040269646188f4",
+        "sha256_in_prefix": "6148a8ec961a7eef930faedc5a0d540a83b7a726b69c9457a5040269646188f4",
+        "size_in_bytes": 32974
+      },
+      {
+        "_path": "site-packages/dash_core_components/metadata.json",
+        "path_type": "hardlink",
+        "sha256": "ef0ad9ae9f37d8f3b0bc6b0893394f0637e21d95ba1b048c5c31896d045e711e",
+        "sha256_in_prefix": "ef0ad9ae9f37d8f3b0bc6b0893394f0637e21d95ba1b048c5c31896d045e711e",
+        "size_in_bytes": 168522
+      },
+      {
+        "_path": "site-packages/dash_core_components/package-info.json",
+        "path_type": "hardlink",
+        "sha256": "b3014d8720f14238bfbc55d11aacd59455c0af82de8c637a81eb0abc7876682e",
+        "sha256_in_prefix": "b3014d8720f14238bfbc55d11aacd59455c0af82de8c637a81eb0abc7876682e",
+        "size_in_bytes": 3208
+      },
+      {
+        "_path": "site-packages/dash_core_components/plotly-1.50.1.min.js",
+        "path_type": "hardlink",
+        "sha256": "9dd5ce2474507c0abfb6d6fc48f6e8a4679a3438daa64e5d1957634c2e130136",
+        "sha256_in_prefix": "9dd5ce2474507c0abfb6d6fc48f6e8a4679a3438daa64e5d1957634c2e130136",
+        "size_in_bytes": 3287822
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/Checklist.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/ConfirmDialog.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/ConfirmDialogProvider.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/DatePickerRange.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/DatePickerSingle.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/Dropdown.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/Graph.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/Input.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/Interval.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/Link.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/Loading.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/Location.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/LogoutButton.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/Markdown.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/RadioItems.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/RangeSlider.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/Slider.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/Store.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/Tab.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/Tabs.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/Textarea.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/Upload.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dash_core_components/__pycache__/_imports_.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "67571db3e8e89b2a466ccb77c3662e9a5e9aea5b7de1296d363af050eed90f4b",
+  "size": 1626262,
+  "subdir": "noarch",
+  "timestamp": 1576595952019,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/dash-core-components-1.3.1-py_0.conda",
+  "version": "1.3.1"
+}

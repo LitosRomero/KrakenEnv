@@ -1,0 +1,157 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\dell\\Anaconda3\\pkgs\\dash-renderer-1.1.2-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/dash_renderer-1.1.2.dist-info/INSTALLER",
+    "Lib/site-packages/dash_renderer-1.1.2.dist-info/METADATA",
+    "Lib/site-packages/dash_renderer-1.1.2.dist-info/RECORD",
+    "Lib/site-packages/dash_renderer-1.1.2.dist-info/WHEEL",
+    "Lib/site-packages/dash_renderer-1.1.2.dist-info/top_level.txt",
+    "Lib/site-packages/dash_renderer/__init__.py",
+    "Lib/site-packages/dash_renderer/dash_renderer.dev.js",
+    "Lib/site-packages/dash_renderer/dash_renderer.min.js",
+    "Lib/site-packages/dash_renderer/prop-types@15.7.2.js",
+    "Lib/site-packages/dash_renderer/prop-types@15.7.2.min.js",
+    "Lib/site-packages/dash_renderer/react-dom@16.8.6.js",
+    "Lib/site-packages/dash_renderer/react-dom@16.8.6.min.js",
+    "Lib/site-packages/dash_renderer/react@16.8.6.js",
+    "Lib/site-packages/dash_renderer/react@16.8.6.min.js",
+    ".nonadmin",
+    "Lib/site-packages/dash_renderer/__pycache__/__init__.cpython-37.pyc"
+  ],
+  "fn": "dash-renderer-1.1.2-py_0.conda",
+  "legacy_bz2_md5": "8ab3ea44e579aca3a4bf0c39a1e7a41f",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\dell\\Anaconda3\\pkgs\\dash-renderer-1.1.2-py_0",
+    "type": 1
+  },
+  "md5": "654296bba81bcf7f58473924b2e1750f",
+  "name": "dash-renderer",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\dell\\Anaconda3\\pkgs\\dash-renderer-1.1.2-py_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/dash_renderer-1.1.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/dash_renderer-1.1.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "c7f0bca2802b00aea8c7a31551e6d92605740addf32151a394cc071804e832f6",
+        "sha256_in_prefix": "c7f0bca2802b00aea8c7a31551e6d92605740addf32151a394cc071804e832f6",
+        "size_in_bytes": 214
+      },
+      {
+        "_path": "site-packages/dash_renderer-1.1.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "92972a6b1f4f54e5ba5f6793e70bf7fcae567645e4cdbae5b24f30edab6d74cc",
+        "sha256_in_prefix": "92972a6b1f4f54e5ba5f6793e70bf7fcae567645e4cdbae5b24f30edab6d74cc",
+        "size_in_bytes": 1281
+      },
+      {
+        "_path": "site-packages/dash_renderer-1.1.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "23bf6aa29589ebd9794fac196b2b7d55438c79c19918fceedbf89c6d16168e92",
+        "sha256_in_prefix": "23bf6aa29589ebd9794fac196b2b7d55438c79c19918fceedbf89c6d16168e92",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "site-packages/dash_renderer-1.1.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "078dd4687eea701cfadca72b5e5fcc214dac81a50ef092a3b43e0a892752fd86",
+        "sha256_in_prefix": "078dd4687eea701cfadca72b5e5fcc214dac81a50ef092a3b43e0a892752fd86",
+        "size_in_bytes": 14
+      },
+      {
+        "_path": "site-packages/dash_renderer/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "80417437053cd044c73bb97ef3dd3cf29489bc88c51214ecdb43ae14d098633e",
+        "sha256_in_prefix": "80417437053cd044c73bb97ef3dd3cf29489bc88c51214ecdb43ae14d098633e",
+        "size_in_bytes": 1560
+      },
+      {
+        "_path": "site-packages/dash_renderer/dash_renderer.dev.js",
+        "path_type": "hardlink",
+        "sha256": "15deb0872e8746476f32302440a7897eee6180bd6c37154c951687bd5a425407",
+        "sha256_in_prefix": "15deb0872e8746476f32302440a7897eee6180bd6c37154c951687bd5a425407",
+        "size_in_bytes": 4084063
+      },
+      {
+        "_path": "site-packages/dash_renderer/dash_renderer.min.js",
+        "path_type": "hardlink",
+        "sha256": "db9cbabe0b0b10b432a47ae5b7446237ef51ea9c60982372739dc52fc956ef21",
+        "sha256_in_prefix": "db9cbabe0b0b10b432a47ae5b7446237ef51ea9c60982372739dc52fc956ef21",
+        "size_in_bytes": 210943
+      },
+      {
+        "_path": "site-packages/dash_renderer/prop-types@15.7.2.js",
+        "path_type": "hardlink",
+        "sha256": "fd78948b9ad139bbfd70c62afacaaca120bafbcbdd5113dd615fbeb67751a5ac",
+        "sha256_in_prefix": "fd78948b9ad139bbfd70c62afacaaca120bafbcbdd5113dd615fbeb67751a5ac",
+        "size_in_bytes": 47744
+      },
+      {
+        "_path": "site-packages/dash_renderer/prop-types@15.7.2.min.js",
+        "path_type": "hardlink",
+        "sha256": "4c88350517ee82aa4f3368e67ef1a453ca6636dcfa6449b4e3d6faa5c877066e",
+        "sha256_in_prefix": "4c88350517ee82aa4f3368e67ef1a453ca6636dcfa6449b4e3d6faa5c877066e",
+        "size_in_bytes": 1763
+      },
+      {
+        "_path": "site-packages/dash_renderer/react-dom@16.8.6.js",
+        "path_type": "hardlink",
+        "sha256": "23f0a5ad8cb395811090c523aabec6de6ffcdf39e5c9c0c2788db1b8166c431d",
+        "sha256_in_prefix": "23f0a5ad8cb395811090c523aabec6de6ffcdf39e5c9c0c2788db1b8166c431d",
+        "size_in_bytes": 792058
+      },
+      {
+        "_path": "site-packages/dash_renderer/react-dom@16.8.6.min.js",
+        "path_type": "hardlink",
+        "sha256": "a95b05d5fb4bdef52af1114e2f03e72a299738ba3bdb182e0e5888c5e7df1d17",
+        "sha256_in_prefix": "a95b05d5fb4bdef52af1114e2f03e72a299738ba3bdb182e0e5888c5e7df1d17",
+        "size_in_bytes": 108002
+      },
+      {
+        "_path": "site-packages/dash_renderer/react@16.8.6.js",
+        "path_type": "hardlink",
+        "sha256": "f47d3978251ae71e06dbc772b58070a005e44775e03c4dec0a88325e1ac8370a",
+        "sha256_in_prefix": "f47d3978251ae71e06dbc772b58070a005e44775e03c4dec0a88325e1ac8370a",
+        "size_in_bytes": 102553
+      },
+      {
+        "_path": "site-packages/dash_renderer/react@16.8.6.min.js",
+        "path_type": "hardlink",
+        "sha256": "defa3ae595e7e697ec09f18ce47e795fe4a6c091c19723473f04665803e02673",
+        "sha256_in_prefix": "defa3ae595e7e697ec09f18ce47e795fe4a6c091c19723473f04665803e02673",
+        "size_in_bytes": 12682
+      },
+      {
+        "_path": "Lib/site-packages/dash_renderer/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "e68e744f66aa5e03c80d084e0e9d413c0f3be20f6f23e5c1f7d08fae82249a9e",
+  "size": 923717,
+  "subdir": "noarch",
+  "timestamp": 1576595740826,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/dash-renderer-1.1.2-py_0.conda",
+  "version": "1.1.2"
+}

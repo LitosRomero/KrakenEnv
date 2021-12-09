@@ -1,0 +1,214 @@
+{
+  "build": "py37haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\dell\\Anaconda3\\pkgs\\six-1.15.0-py37haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/six.cpython-37.pyc",
+    "Lib/site-packages/six-1.15.0.dist-info/INSTALLER",
+    "Lib/site-packages/six-1.15.0.dist-info/LICENSE",
+    "Lib/site-packages/six-1.15.0.dist-info/METADATA",
+    "Lib/site-packages/six-1.15.0.dist-info/RECORD",
+    "Lib/site-packages/six-1.15.0.dist-info/REQUESTED",
+    "Lib/site-packages/six-1.15.0.dist-info/WHEEL",
+    "Lib/site-packages/six-1.15.0.dist-info/direct_url.json",
+    "Lib/site-packages/six-1.15.0.dist-info/top_level.txt",
+    "Lib/site-packages/six.py",
+    "Lib/site-packages/wheel/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/wheel/__pycache__/bdist_wheel.cpython-37.pyc",
+    "Lib/site-packages/wheel/__pycache__/macosx_libfile.cpython-37.pyc",
+    "Lib/site-packages/wheel/__pycache__/metadata.cpython-37.pyc",
+    "Lib/site-packages/wheel/__pycache__/pkginfo.cpython-37.pyc",
+    "Lib/site-packages/wheel/__pycache__/util.cpython-37.pyc",
+    "Lib/site-packages/wheel/__pycache__/wheelfile.cpython-37.pyc",
+    "Lib/site-packages/wheel/cli/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/wheel/vendored/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/wheel/vendored/packaging/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/wheel/vendored/packaging/__pycache__/_typing.cpython-37.pyc",
+    "Lib/site-packages/wheel/vendored/packaging/__pycache__/tags.cpython-37.pyc",
+    ".nonadmin"
+  ],
+  "fn": "six-1.15.0-py37haa95532_0.conda",
+  "legacy_bz2_md5": "77b1e585146e5ac45aeb048d5c0c6979",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\dell\\Anaconda3\\pkgs\\six-1.15.0-py37haa95532_0",
+    "type": 1
+  },
+  "md5": "ee410613922ce93a16fb29a7d70ea4b3",
+  "name": "six",
+  "package_tarball_full_path": "C:\\Users\\dell\\Anaconda3\\pkgs\\six-1.15.0-py37haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/six.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "6ca4bca7b07763c3a4dc11050fb0db8fb0dde140a02c4b348c132be36fae4898",
+        "sha256_in_prefix": "6ca4bca7b07763c3a4dc11050fb0db8fb0dde140a02c4b348c132be36fae4898",
+        "size_in_bytes": 26843
+      },
+      {
+        "_path": "Lib/site-packages/six-1.15.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/six-1.15.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "8bb850c565aa389fdc16f3a46965ad23d82adff60f2393fc2762b63185e8e6c9",
+        "sha256_in_prefix": "8bb850c565aa389fdc16f3a46965ad23d82adff60f2393fc2762b63185e8e6c9",
+        "size_in_bytes": 1066
+      },
+      {
+        "_path": "Lib/site-packages/six-1.15.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5baae5ca878c6475e1eacacff4d5cdb26d2b8c07ffebad2b7bc59d1f94c14fc1",
+        "sha256_in_prefix": "5baae5ca878c6475e1eacacff4d5cdb26d2b8c07ffebad2b7bc59d1f94c14fc1",
+        "size_in_bytes": 1795
+      },
+      {
+        "_path": "Lib/site-packages/six-1.15.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "752c802de841ed249bdd285f244bafb7965282d94104cb06349b29a130b545ef",
+        "sha256_in_prefix": "752c802de841ed249bdd285f244bafb7965282d94104cb06349b29a130b545ef",
+        "size_in_bytes": 737
+      },
+      {
+        "_path": "Lib/site-packages/six-1.15.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/six-1.15.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "8313daa9ca8a3cb51769200ac267c73bbfe200e955be6a77dc37b09d496e041f",
+        "sha256_in_prefix": "8313daa9ca8a3cb51769200ac267c73bbfe200e955be6a77dc37b09d496e041f",
+        "size_in_bytes": 116
+      },
+      {
+        "_path": "Lib/site-packages/six-1.15.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a6945e59c0bca21068893dda988f2c0d476b95b84bef2b92831aa94d69f58c45",
+        "sha256_in_prefix": "a6945e59c0bca21068893dda988f2c0d476b95b84bef2b92831aa94d69f58c45",
+        "size_in_bytes": 63
+      },
+      {
+        "_path": "Lib/site-packages/six-1.15.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "sha256_in_prefix": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "Lib/site-packages/six.py",
+        "path_type": "hardlink",
+        "sha256": "53867fcafe77e16e423728d8f62f15d4e5d8d928c09f2f32d8be6f0cb8614e13",
+        "sha256_in_prefix": "53867fcafe77e16e423728d8f62f15d4e5d8d928c09f2f32d8be6f0cb8614e13",
+        "size_in_bytes": 34159
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "5d67ca366bcfed64822523505b66f3fc8b4b01c689023da6e8de4ec9b7a71440",
+        "sha256_in_prefix": "5d67ca366bcfed64822523505b66f3fc8b4b01c689023da6e8de4ec9b7a71440",
+        "size_in_bytes": 175
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/bdist_wheel.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "788433e284a6e6e0d72fc4bff7f5b414b790a18dd83329f5360e22a14e11c96a",
+        "sha256_in_prefix": "788433e284a6e6e0d72fc4bff7f5b414b790a18dd83329f5360e22a14e11c96a",
+        "size_in_bytes": 12652
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/macosx_libfile.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "58f99e238c90969606d94c8a0f786b952e9ef77a45fbb6271e5cf81ffeef85c3",
+        "sha256_in_prefix": "58f99e238c90969606d94c8a0f786b952e9ef77a45fbb6271e5cf81ffeef85c3",
+        "size_in_bytes": 9521
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/metadata.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "39ffdf0a5f0cfdb649725f1e188cce30c3e190249ff807ab07a5111ae02e6d09",
+        "sha256_in_prefix": "39ffdf0a5f0cfdb649725f1e188cce30c3e190249ff807ab07a5111ae02e6d09",
+        "size_in_bytes": 3596
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/pkginfo.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "19699363c5132160df0705e957118901d82fd20d70f45cdce12931745d92092a",
+        "sha256_in_prefix": "19699363c5132160df0705e957118901d82fd20d70f45cdce12931745d92092a",
+        "size_in_bytes": 1546
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/util.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "eca5103643de9ed654d761eaf0edb0abf9d17743b6bc86956f1d84b72df1cfb3",
+        "sha256_in_prefix": "eca5103643de9ed654d761eaf0edb0abf9d17743b6bc86956f1d84b72df1cfb3",
+        "size_in_bytes": 1291
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/wheelfile.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "63f74272cebd318f1ebe98b3168ef679f9107b6b9b739f1ce9a6fccd37f3facc",
+        "sha256_in_prefix": "63f74272cebd318f1ebe98b3168ef679f9107b6b9b739f1ce9a6fccd37f3facc",
+        "size_in_bytes": 5505
+      },
+      {
+        "_path": "Lib/site-packages/wheel/cli/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "c1273a34094cde78c0a3d691082dfc405ff7e6e894fa460f0ff9fd28083a41c4",
+        "sha256_in_prefix": "c1273a34094cde78c0a3d691082dfc405ff7e6e894fa460f0ff9fd28083a41c4",
+        "size_in_bytes": 3017
+      },
+      {
+        "_path": "Lib/site-packages/wheel/vendored/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "052fa35055a80a8185aaa6d526b9fecce0b008737bf31ec3a90cfbd31f0feadb",
+        "sha256_in_prefix": "052fa35055a80a8185aaa6d526b9fecce0b008737bf31ec3a90cfbd31f0feadb",
+        "size_in_bytes": 162
+      },
+      {
+        "_path": "Lib/site-packages/wheel/vendored/packaging/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "c7d743af59b42f05c4457738dbe4e07d3e474676823aabe7fd812d35d153561a",
+        "sha256_in_prefix": "c7d743af59b42f05c4457738dbe4e07d3e474676823aabe7fd812d35d153561a",
+        "size_in_bytes": 172
+      },
+      {
+        "_path": "Lib/site-packages/wheel/vendored/packaging/__pycache__/_typing.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "67e4d8a0995dfd62708e908a15a9dba5d9b56f9d6949453c6e86f7976ddce265",
+        "sha256_in_prefix": "67e4d8a0995dfd62708e908a15a9dba5d9b56f9d6949453c6e86f7976ddce265",
+        "size_in_bytes": 1463
+      },
+      {
+        "_path": "Lib/site-packages/wheel/vendored/packaging/__pycache__/tags.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "f289bdadabee0768eb01f65db25d7d17cc38557665833e7117782243e0240206",
+        "sha256_in_prefix": "f289bdadabee0768eb01f65db25d7d17cc38557665833e7117782243e0240206",
+        "size_in_bytes": 17083
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6d3664a32680dbc9f85733b871a40878252e434c6c93335a38baa9b4056f7f06",
+  "size": 52442,
+  "subdir": "win-64",
+  "timestamp": 1605205477740,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/six-1.15.0-py37haa95532_0.conda",
+  "version": "1.15.0"
+}
