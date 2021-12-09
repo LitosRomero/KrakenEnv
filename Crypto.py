@@ -67,7 +67,7 @@ external_stylesheets = [{"href": "https://fonts.googleapis.com/css2?"
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 app.title = "Análisis Cripto"
 server = app.server
-###
+
 
 # da Dash
 app.layout = html.Div(
