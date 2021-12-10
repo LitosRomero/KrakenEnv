@@ -185,8 +185,8 @@ def display_candlestick(intervalo, crypto1, coin1, v1):  # s_date1,e_date1#utili
 
     data1 = call_Kraken(par=crypto1 + coin1, i=tiempos)  # volvemos a llamar datos para actualizar el dashbaord
 
-    min_date1 = data.date.min()  # redefinimos la fecha mínima y máxima, de inicio y fin
-    max_date1 = data.date.max()
+    min_date1 = data1.date.min()  # redefinimos la fecha mínima y máxima, de inicio y fin
+    max_date1 = data1.date.max()
     # fe1 =s_date1
     # fe2 =e_date1
     # mask = ( >= fe1 )
