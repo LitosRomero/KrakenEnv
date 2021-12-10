@@ -92,8 +92,6 @@ app.layout = html.Div(
                                                 2: '15 minutos',  # erróneos
                                                 3: '30 minutos',
                                                 4: '1 hora',
-                                                5: '6 horas',
-                                                6: '12 horas',
                                                 7: '1 día',
                                                 8: '1 semana'
                                                 },
