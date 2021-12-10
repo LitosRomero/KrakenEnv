@@ -28,13 +28,14 @@ api = KrakenAPI(k)
 #Obtneiendo datos
 fecha = datetime.datetime(2019, 12, 1)
 f1 = time.mktime(fecha.timetuple()) #fecha inicio
-inter=5  # 60*24*7
+tiempos=5  # 60*24*7
 cryp='BTC' #criptomoneda
 met='USDT' #metálico
 monedas=cryp+met
+silder_etiqu=1
 
 #construyendo el df final
-def call_Kraken(par="BTCUSDT", i=5, f_ini=1575158400.0): #60*24*7
+def call_Kraken(par="BTCUSDT", i=5, f_ini=f1): #60*24*7
   df= api.get_ohlc_data(pair=par,interval=i, since=f_ini)
 
   db=df[0]
@@ -79,7 +80,7 @@ children=[
                                             "en un gráfico de Velas y un VWap.", className="header-description", ),
                           html.Div(  # slider
                               children=[
-                                  html.Div(children="Intervalos", className="menu-title"),
+                                  html.Div(children="Sesión", className="menu-title"),
                                   dcc.Slider(id='slider1',
                                              min=0, max=8, step=None,
                                              marks={0: '1 minuto',
@@ -92,7 +93,7 @@ children=[
                                                     7: '1 día',
                                                     8: '1 semana'
                                                     },
-                                             value=1,
+                                             value=silder_etiqu,
                                              className="rc-slider"
                                              ), ]),
                           ],
@@ -143,15 +144,45 @@ children=[
 # """
 
 @app.callback(Output("graph", "figure"),
-              [Input("filtro-crypto","value"),  #  Input("toggle-rangeslider", "value"),
+              [Input("slider1","value"),
+               Input("filtro-crypto","value"),
                Input("filtro-Moneda","value"),
                Input("rango-fecha", "start_date"),
-               Input("rango-fecha", "end_date")], )
+               Input("rango-fecha", "end_date"),
+               Input("toggle-rangeslider", "value"),
+               ], )
 
-def display_candlestick(crypto1, coin1, start_date, end_date):
+def display_candlestick(intervalo,crypto1, coin1, start_date, end_date,f1):
+    silder_etiqu= intervalo
+    if silder_etiqu == 0:
+        tiempos=1
+    elif silder_etiqu == 1:
+        tiempos=5
+    elif silder_etiqu == 2:
+        tiempos=15
+    elif silder_etiqu == 3:
+        tiempos=30
+    elif silder_etiqu == 4:
+        tiempos=60
+    elif silder_etiqu == 5:
+        tiempos=6*60
+    elif silder_etiqu == 6:
+        tiempos=60*12
+    elif silder_etiqu == 7:
+        tiempos=60*24
+    elif silder_etiqu == 8:
+        tiempos=60*24*7
+    else : tiempos=5
+
     cryp=crypto1
     met=coin1
-    data1 = call_Kraken(par=crypto1+coin1)  #, i=5, f_ini=1575158400.0)
+
+
+    data1 = call_Kraken(par=crypto1+coin1, i=tiempos)  #
+    start_date = data1.date.min()  #.date()
+    end_date = data1.date.max()  #.date()
+
+
     mask = ((data1.date >= start_date) & (data1.date <= end_date))
     filtered_data = data1.loc[mask, :]
 
@@ -184,7 +215,7 @@ def display_candlestick(crypto1, coin1, start_date, end_date):
     # detalles de visualización
     fig.update_layout(title_text=f"{crypto1} en {coin1} desde {start_date} hasta {end_date}", height=600)
     fig.layout.yaxis2.showgrid = False
-    fig.update_yaxes(rangemode='normal', scaleanchor='y', secondary_y=True)
+    fig.update_yaxes(rangemode='normal', scaleanchor='y')#, secondary_y=True)
     fig.update_yaxes(matches='y')
     fig.update_layout(legend=dict(orientation="h",
                                   title="Haga doble click en una variable para aislarla:",
