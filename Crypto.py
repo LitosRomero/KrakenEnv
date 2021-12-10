@@ -18,18 +18,12 @@ k = krakenex.API()
 # conectando con el api
 api = KrakenAPI(k)
 
-#Format unixtime stamp to human readable date:
-#import datetime
-#date = datetime.datetime.fromtimestamp(1637107200.0)
-#print(date.strftime('%Y-%m-%d %H:%M:%S'))
-
-
 
 #Obtneiendo datos
 fecha = datetime.datetime(2019, 12, 1)
-f1 = time.mktime(fecha.timetuple()) #fecha inicio
-tiempos=5  # 60*24*7
-cryp='BTC' #criptomoneda
+f1 = time.mktime(fecha.timetuple())
+tiempos=5
+cryp='BTC' #crypto
 met='USDT' #metálico
 monedas=cryp+met
 silder_etiqu=1
