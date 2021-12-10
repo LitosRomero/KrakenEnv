@@ -55,7 +55,7 @@ data=call_Kraken(par=monedas)
 cryptos=['BTC', 'ETH', 'USDT', 'SOL', 'ADA', 'USDC', 'XRP', 'DOT', 'DOGE',
          'SHIB', 'MATIC', 'WBTC', 'LTC', 'UNI', 'ALGO', 'LINK', 'TRX', 'BCH',
          'MANA', 'XLM', 'AXS', 'DAI', 'ATOM', 'FIL', 'ETC']
-coins=['USDT','USD', 'EUR', 'GBP','CNY', 'INR', 'JPY', 'SAR']
+coins=['USDT','USD', 'EUR', 'GBP', 'JPY']
 
 # estilo
 external_stylesheets = [{"href": "https://fonts.googleapis.com/css2?"
@@ -76,8 +76,26 @@ children=[
                 children=[html.H1(children= "Visualizando Criptomonedas", className="header-title"),
                           html.P(children="Gráficos del comportamiento del precio y del "
                                             "volúmen de una criptomoneda al precio de otra"
-                                            "en un gráfico de Velas y un VWap",
-                          className="header-description", ), ],
+                                            "en un gráfico de Velas y un VWap.", className="header-description", ),
+                          html.Div(  # slider
+                              children=[
+                                  html.Div(children="Intervalos", className="menu-title"),
+                                  dcc.Slider(id='slider1',
+                                             min=0, max=8, step=None,
+                                             marks={0: '1 minuto',
+                                                    1: '5 minutos',
+                                                    2: '15 minutos',
+                                                    3: '30 minutos',
+                                                    4: '1 hora',
+                                                    5: '6 horas',
+                                                    6: '12 horas',
+                                                    7: '1 día',
+                                                    8: '1 semana'
+                                                    },
+                                             value=1,
+                                             className="rc-slider"
+                                             ), ]),
+                          ],
                 className="header", ),
 
     html.Div( [dcc.Checklist(id='toggle-rangeslider', value=['slider'] ), ] ), #CHEQUE
@@ -112,7 +130,7 @@ children=[
                                                clearable=False,
                                                placeholder="Selecione una moneda",
                                                className="dropdown",) ] )
-                     ], className="menu", ),
+            ], className="menu", ),
 
     html.Div(# GRÁFICO
         children=[html.Div(children=dcc.Graph(id="graph",  # grafica-precio

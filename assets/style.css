@@ -18,6 +18,29 @@ body {
     margin: 0 auto;
 }
 
+
+.rc-slider-track {
+  background-color: #079A82;
+}
+
+.rc-slider-dot-active {
+  border-color: #079A82;
+  border: solid rgba(0, 0, 0, 0.18);
+}
+
+.rc-slider-handle {
+  background-color: #079A82;
+  border-color: rgba(0, 0, 0, 0.18);
+}
+
+.rc-slider-handle:hover {
+  border-color: #079A82;
+}
+
+.rc-slider-handle-active:active {
+  border-color: #079A82;
+}
+
 .header-description {
     color: #CFCFCF;
     margin: 4px auto;
